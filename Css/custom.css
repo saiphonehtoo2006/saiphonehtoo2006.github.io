@@ -1,0 +1,61 @@
+/* *{
+    color: red;
+    text-align: center;
+}
+
+h1{
+    color: green;
+}
+
+    /* attribute selector */
+/* a[title="Facebook"]{
+    color: blue;
+} */
+
+    /* id Seelctor */
+/* #p2{
+    color: aqua;
+    text-transform: uppercase;
+    word-spacing: 20px;
+    letter-spacing: 10px;
+    line-height:30px;
+} */
+
+/* .pass{
+    text-indent: 50px;
+    color: coral;
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 20px;
+} */
+/* 
+#desc a{
+    color: aquamarine;
+    font-size: 60px;
+} */
+
+/* #child>a{
+    color: chartreuse;
+    font-size: 60px;
+} */ 
+
+    /* Pseudo_Selectpr */
+
+a:link{
+    color: red;
+    text-decoration:none;
+}
+
+a:hover{
+    color: coral;
+}
+
+a:active{
+    color:blue;
+    font-size: 50px;
+}
+
+a:visited{
+    color: yellow;
+    font-size: 40px;
+}
